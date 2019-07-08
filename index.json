@@ -1,0 +1,20 @@
+{
+	"user1": [{
+		"name": "Vikal",
+		"city": "Panchkula",
+		"email": "vikalsingh@gmail.com",
+		"phone": 8699671777
+	}],
+	"user2": [{
+		"name": "Satnam",
+		"city": "Mohali",
+		"email": "satnam@gmail.com",
+		"phone": 98888888
+	}],
+	"user3": [{
+		"name": "Rahul",
+		"city": "Mohali",
+		"email": "rahul@yahoo.com",
+		"phone": 7778889990
+	}]
+}
